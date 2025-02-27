@@ -19,12 +19,12 @@ user_agent_list = [
 
 # 目标url
 url = "https://mp.weixin.qq.com/cgi-bin/appmsg"
-cookie = "appmsglist_action_3211828736=card; ua_id=xf1IJPpCxrOkzx7HAAAAAEfpoLhrY0vf20LrgWcLYec=; wxuin=86999637334436; mm_lang=zh_CN; sig_login=h01d1e20db4fb703b033225cbbdba00bbe3cdc4ec6e572a379ee6538c8469a1e7fb7fa70fbab1502f6e; poc_sid=HKiMpWSj06-7f7D34kNWA1XMhli1chB19UDerP16; rewardsn=; wxtokenkey=777; _clck=3211828736|1|fd4|0; uuid=f96f4e9ebfb016ffe047415406c68016; rand_info=CAESIFj8UW/i916e5Wjx44FVtePMf/z26P4BzVg7WkY8+mZ3; slave_bizuin=3211828736; data_bizuin=3239826583; bizuin=3211828736; data_ticket=MY7BzVOs/eOR0o7KVMAz6kU7axsoln5E9yHzB8UFfr4OuWzLWc6wCq84S58drkZe; slave_sid=Nk9ibUw5QjVCT2czNFBEMDNyY3NVZlFIaEc0TjJ2SFdqVzhDaG9SNnpiZk5EMUJIOVNIeGRocUNiaFAyVFBqMWVfNWV4WVpwN0Z1aUk1WE43Y3UycUhBVm5ZYWM0UGhTWkVueFlFRk5PMTB2M0RPWlI2b0FRaVpCcEJYaW9Wcjd4TmluOGZwSVVDdnpkd0tE; slave_user=gh_2d4656f66685; xid=0c74682e70906d561039ca6e24d8ae8b; _clsk=o58sgn|1688813027677|1|1|mp.weixin.qq.com/weheat-agent/payload/record"
+cookie = "appmsglist_action_3872294534=card; qq_domain_video_guid_verify=794a419c8248bf4e; _qimei_uuid42=186090e3b1810020b5e119daf9d671a4d6c6863b34; _qimei_q36=; _qimei_h38=98e55369b5e119daf9d671a403000004618609; pgv_pvid=2295125626; _qimei_fingerprint=909aea0aea69f2aef5ecf5d71acf50fa; RK=mMGw5ymiQd; ptcz=73230320146b75980bcbf4f7071bd0dc32800510ea57c08f980aa9f49a437240; ua_id=8wpxG4BTJJbKCURlAAAAAFgUyRvS-Yj5keDcfNZxpp8=; wxuin=24145373675458; mm_lang=zh_CN; rewardsn=; wxtokenkey=777; uin=o0547648596; skey=@s1n1ZjlhN; pac_uid=0_Np6taBHmAa98A; suid=user_0_Np6taBHmAa98A; wedrive_uin=13102672509794510; wedrive_sid=z850OIz4aWUujXRBAKxlYwAA; wedrive_skey=13102672509794510&4d286d8b25f0b7899820290ebb10ccde; wedrive_ticket=13102672509794510&CAESIObRCKkYnKvSun-HnqPBjeTf13gBwnIDAqh27Whbpjou; uuid=bf6cab1e747342fdf3f37b6beae68c16; _clck=u601up|1|fqx|0; rand_info=CAESIBWfvVjcntBCSlu3Zub+9iSMSuxwvTydqpdnc9vblfDp; slave_bizuin=3872294534; data_bizuin=3872294534; bizuin=3872294534; data_ticket=q/59RemKH+YBppsycRLaiqtxhHs7A5lNnpnjzVmizECZEk7zPr06EoeyfRx24dpf; slave_sid=ODliQ2xYREV0VEZveHUyck9tSGtfVXFNcFNMT3pFSVlQVTl4ZHAwMk1ZMG50RGpYbU1nUmxRWEVRY3hTbUtVWVZLZXFCTGc0RGxYVU9jajVFNEZ4ZUhWdWFmNVJibGVDZWdxREptSFhIeDRES2hTVDVrVk1KOVo4SkE1eWEzWGxoaVpRVUVFa1Jvd2FIbVE0; slave_user=gh_35f0187d232b; xid=d6d27c072ea75bf8747b531e3539204e; _clsk=14c6j7o|1731778169933|9|1|mp.weixin.qq.com/weheat-agent/payload/record"
 
 # 使用Cookie，跳过登陆操作
 
 data = {
-    "token": "20884314",
+    "token": "1639339367",
     "lang": "zh_CN",
     "f": "json",
     "ajax": "1",
@@ -32,7 +32,7 @@ data = {
     "begin": "0",
     "count": "5",
     "query": "",
-    "fakeid": "这里进行替换",
+    "fakeid": "MzkwMDY2NzIxNQ==",
     "type": "9",
 }
 headers = {
